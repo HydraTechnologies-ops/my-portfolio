@@ -112,6 +112,14 @@ h2 {
   margin: 5px;
 }
 
+#image-container img {
+  border-radius: 50%;
+  width: 20rem;
+  height: 20rem;
+  margin: 50px;
+  box-shadow: 0 3px 10px gray;
+}
+
 /* Skills */
 
 .all_skills {
